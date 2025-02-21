@@ -1,4 +1,9 @@
-language/import/json-invalid.js(default)
-language/import/json-invalid.js(strict mode)
-language/import/json-named-bindings.js(default)
-language/import/json-named-bindings.js(strict mode)
+# 0 invalid programs did not produce a parsing error
+
+
+
+
+# 2 valid programs produced a parsing error
+
+staging/sm/String/make-normalize-generateddata-input.py(default)
+staging/sm/String/make-normalize-generateddata-input.py(strict mode)
